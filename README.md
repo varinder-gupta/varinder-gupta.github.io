@@ -1,1 +1,6 @@
-# varinder-gupta.github.io
+# Full Stack Developer
+
+### Education
+MCA
+
+### Work Experience
