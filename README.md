@@ -6,3 +6,6 @@ MCA
 ### Work Experience
 - Software Engineer @ XYZ
 - Software Developer @ ac
+
+
+*DevOps Engineer*
